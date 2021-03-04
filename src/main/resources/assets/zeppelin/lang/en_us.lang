@@ -1,0 +1,17 @@
+//Keybinds
+key.zeppelin.category=Zeppelin Mod
+// --- //
+key.zeppelinfwd.desc=Move Forwards
+key.zeppelinbck.desc=Move Backwards
+key.zeppelinlft.desc=Rotate Left
+key.zeppelinrgt.desc=Rotate Right
+key.zeppelintlft.desc=Tilt Left
+key.zeppelintrgt.desc=Tilt Right
+// --- ///
+
+//Items
+item.radio_item.name=Remote Controller
+item.compass_item.name=Compass
+
+//Blocks
+tile.airshipcontroller_block.name=Helm Controller

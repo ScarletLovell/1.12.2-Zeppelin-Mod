@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blocks/planks_oak",
+    "front": "zeppelin:blocks/front",
+    "back": "zeppelin:blocks/back",
+    "top": "zeppelin:blocks/top"
+  }
+}

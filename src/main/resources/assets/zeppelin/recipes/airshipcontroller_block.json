@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L L",
+        "PIP",
+        "PIP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "minecraft:oak_planks"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:lever"
+        }
+    },
+    
+    "result":
+    {
+        "item": "zeppelin:airshipcontroller_block",
+        "count": 1
+    }
+}

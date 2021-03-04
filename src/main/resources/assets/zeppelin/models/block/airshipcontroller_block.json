@@ -1,0 +1,11 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "blocks/planks_oak",
+        "front": "zeppelin:blocks/front",
+        "end": "zeppelin:blocks/back",
+        "top": "zeppelin:blocks/top",
+        "bottom": "blocks/planks_oak",
+        "side": "blocks/planks_oak"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "inventory": { "model": "zeppelin:airshipcontroller_block" },
+        "normal": { "model": "zeppelin:airshipcontroller_block" },
+        "facing=north": { "model": "zeppelin:airshipcontroller_block" },
+        "facing=south": { "model": "zeppelin:airshipcontroller_block", "y": 180 },
+        "facing=west": { "model": "zeppelin:airshipcontroller_block", "y": 270 },
+        "facing=east": { "model": "zeppelin:airshipcontroller_block", "y": 90 }
+    }
+}
